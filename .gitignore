@@ -35,6 +35,7 @@ ScaffoldingReadMe.txt
 
 # Visual Studio 2019
 .vscode/
+.vs/
 
 # Dotnet dump
 *.tdump
